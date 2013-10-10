@@ -4,7 +4,7 @@ By Ali El-Ashram
 
 ## Description
 
-This app allows for listing contacts by first name, last name, Phone number, and birth date. Show, edit, and destroy functions are enabled.
+This app allows for listing contacts by first name, last name, phone number, and birth date. Show, edit, and destroy functions are enabled.
 
 ## Information
 
